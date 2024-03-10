@@ -2,3 +2,4 @@
 2024-01-16 wire up queue
 2024-01-16 typo
 2024-02-17 add retry on 429
+2024-03-10 move config to env
