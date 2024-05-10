@@ -4,3 +4,4 @@
 2024-02-21 docs
 2024-04-30 handle empty response
 2024-05-03 migration
+2024-05-10 guard against None
