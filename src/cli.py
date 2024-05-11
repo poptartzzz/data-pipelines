@@ -4,3 +4,4 @@
 2024-03-03 dockerfile
 2024-03-10 cache the lookups
 2024-03-20 refactor parser
+2024-05-11 handle empty response
