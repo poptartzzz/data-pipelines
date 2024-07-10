@@ -6,3 +6,4 @@
 2024-04-03 log the raw payload
 2024-06-18 log the raw payload
 2024-06-28 fix timezone bug
+2024-07-10 add cli flag
