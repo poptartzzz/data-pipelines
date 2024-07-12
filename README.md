@@ -4,3 +4,4 @@
 2024-04-03 bump deps
 2024-05-28 wip
 2024-06-26 move config to env
+2024-07-12 small perf pass
