@@ -5,3 +5,4 @@
 2024-05-28 wip
 2024-06-26 move config to env
 2024-07-12 small perf pass
+2024-08-19 lint
