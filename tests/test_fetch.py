@@ -7,3 +7,4 @@
 2024-05-10 guard against None
 2024-07-30 wip 2
 2024-08-19 dockerfile
+2024-09-25 small perf pass
