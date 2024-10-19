@@ -3,3 +3,4 @@
 2024-09-21 cleanup dead code
 2024-09-30 migration
 2024-10-09 dockerfile
+2024-10-19 split the fetcher out
