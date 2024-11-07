@@ -6,3 +6,4 @@
 2024-10-19 split the fetcher out
 2024-10-25 migration
 2024-11-02 docs
+2024-11-07 handle empty response
