@@ -5,3 +5,4 @@
 2024-03-10 move config to env
 2024-10-17 migration
 2024-11-07 add retry on 429
+2024-12-14 reduce noise
