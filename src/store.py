@@ -7,3 +7,4 @@
 2024-11-07 add retry on 429
 2024-12-14 reduce noise
 2024-12-14 small perf pass
+2024-12-26 typeshed
