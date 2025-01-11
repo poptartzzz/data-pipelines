@@ -3,3 +3,4 @@
 2024-02-05 move config to env
 2024-05-20 bump deps
 2024-09-21 wip 2
+2025-01-11 fix timezone bug
