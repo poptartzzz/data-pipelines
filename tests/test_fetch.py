@@ -9,3 +9,4 @@
 2024-08-19 dockerfile
 2024-09-25 small perf pass
 2024-10-24 refactor parser
+2025-01-16 bump deps
