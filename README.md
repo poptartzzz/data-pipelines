@@ -10,3 +10,4 @@
 2024-10-08 fix timezone bug
 2024-10-10 split the fetcher out
 2024-11-17 revert
+2025-01-28 dockerfile
