@@ -9,3 +9,4 @@
 2024-10-12 hotfix
 2024-11-12 docs
 2025-01-11 bump deps
+2025-02-28 typeshed
