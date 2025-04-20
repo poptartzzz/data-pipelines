@@ -9,3 +9,4 @@
 2024-11-07 handle empty response
 2024-11-13 typeshed
 2024-12-16 lint
+2025-04-20 small perf pass
