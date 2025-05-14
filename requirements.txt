@@ -17,3 +17,4 @@
 2024-12-26 bump deps
 2025-04-26 add tests
 2025-05-14 lint
+2025-05-14 migration
