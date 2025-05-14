@@ -11,3 +11,4 @@
 2024-10-17 add cli flag
 2024-10-17 reduce noise
 2025-05-06 typo
+2025-05-14 pagination fix
