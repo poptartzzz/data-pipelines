@@ -10,3 +10,4 @@
 2024-09-25 small perf pass
 2024-10-24 refactor parser
 2025-01-16 bump deps
+2025-05-18 metrics
