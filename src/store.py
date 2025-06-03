@@ -10,3 +10,4 @@
 2024-12-26 typeshed
 2025-03-18 hotfix
 2025-05-14 dockerfile
+2025-06-03 docs
