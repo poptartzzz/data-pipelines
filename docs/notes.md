@@ -6,3 +6,4 @@
 2025-01-11 fix timezone bug
 2025-03-18 split the fetcher out
 2025-05-24 docs
+2025-06-15 typo
