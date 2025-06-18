@@ -12,3 +12,4 @@
 2025-01-16 bump deps
 2025-05-18 metrics
 2025-06-03 fix timezone bug
+2025-06-18 revert
