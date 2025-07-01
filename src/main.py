@@ -13,3 +13,4 @@
 2025-05-06 typo
 2025-05-14 pagination fix
 2025-05-31 wire up queue
+2025-07-01 add cli flag
