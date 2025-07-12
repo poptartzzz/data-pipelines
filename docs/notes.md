@@ -8,3 +8,4 @@
 2025-05-24 docs
 2025-06-15 typo
 2025-07-01 bump deps
+2025-07-12 cache the lookups
