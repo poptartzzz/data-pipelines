@@ -8,3 +8,4 @@
 2024-06-28 hotfix
 2024-08-27 metrics
 2024-09-29 pagination fix
+2025-07-17 add retry on 429
