@@ -15,3 +15,4 @@
 2025-02-19 cleanup dead code
 2025-06-14 fix timezone bug
 2025-07-08 wip 2
+2025-07-17 add cli flag
