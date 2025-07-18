@@ -16,3 +16,4 @@
 2025-06-14 fix timezone bug
 2025-07-08 wip 2
 2025-07-17 add cli flag
+2025-07-18 backoff on failure
