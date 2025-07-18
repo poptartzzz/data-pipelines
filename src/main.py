@@ -15,3 +15,4 @@
 2025-05-31 wire up queue
 2025-07-01 add cli flag
 2025-07-09 add tests
+2025-07-18 guard against None
