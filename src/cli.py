@@ -9,3 +9,4 @@
 2024-08-27 metrics
 2024-09-29 pagination fix
 2025-07-17 add retry on 429
+2025-07-18 bump deps
