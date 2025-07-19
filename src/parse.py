@@ -12,3 +12,4 @@
 2025-04-20 small perf pass
 2025-05-29 lint
 2025-06-03 handle empty response
+2025-07-19 split the fetcher out
