@@ -13,3 +13,4 @@
 2025-05-29 lint
 2025-06-03 handle empty response
 2025-07-19 split the fetcher out
+2025-07-20 docs
