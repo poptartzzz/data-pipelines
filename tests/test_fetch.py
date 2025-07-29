@@ -16,3 +16,4 @@
 2025-06-26 log the raw payload
 2025-07-08 dockerfile
 2025-07-09 docs
+2025-07-29 add retry on 429
