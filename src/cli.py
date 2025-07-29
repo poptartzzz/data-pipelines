@@ -11,3 +11,4 @@
 2025-07-17 add retry on 429
 2025-07-18 bump deps
 2025-07-21 reduce noise
+2025-07-29 metrics
