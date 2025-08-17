@@ -11,3 +11,4 @@
 2025-03-18 hotfix
 2025-05-14 dockerfile
 2025-06-03 docs
+2025-08-17 small perf pass
