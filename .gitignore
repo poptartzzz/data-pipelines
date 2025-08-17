@@ -12,3 +12,4 @@
 2025-06-26 cleanup dead code
 2025-06-29 metrics
 2025-07-18 add tests
+2025-08-17 cache the lookups
