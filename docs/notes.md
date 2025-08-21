@@ -10,3 +10,4 @@
 2025-07-01 bump deps
 2025-07-12 cache the lookups
 2025-08-06 backoff on failure
+2025-08-21 lint
