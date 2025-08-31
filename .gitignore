@@ -14,3 +14,4 @@
 2025-07-18 add tests
 2025-08-17 cache the lookups
 2025-08-19 log the raw payload
+2025-08-31 handle empty response
