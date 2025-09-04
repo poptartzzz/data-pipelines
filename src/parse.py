@@ -16,3 +16,4 @@
 2025-07-20 docs
 2025-07-29 typo
 2025-08-20 drop unused import
+2025-09-04 pagination fix
