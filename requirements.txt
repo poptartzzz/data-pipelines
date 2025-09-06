@@ -21,3 +21,4 @@
 2025-05-16 small perf pass
 2025-06-26 lint
 2025-08-09 guard against None
+2025-09-06 dockerfile
