@@ -16,3 +16,4 @@
 2025-07-01 add cli flag
 2025-07-09 add tests
 2025-07-18 guard against None
+2025-09-06 log the raw payload
