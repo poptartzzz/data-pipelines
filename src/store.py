@@ -13,3 +13,4 @@
 2025-06-03 docs
 2025-08-17 small perf pass
 2025-09-06 lint
+2025-09-06 revert
