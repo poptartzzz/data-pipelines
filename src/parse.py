@@ -18,3 +18,4 @@
 2025-08-20 drop unused import
 2025-09-04 pagination fix
 2025-09-06 typo
+2025-09-26 typeshed
