@@ -15,3 +15,4 @@
 2025-08-23 lint
 2025-09-01 backoff on failure
 2025-09-29 handle empty response
+2025-10-01 move config to env
