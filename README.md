@@ -20,3 +20,4 @@
 2025-09-06 metrics
 2025-09-26 dockerfile
 2025-10-05 reduce noise
+2025-10-05 revert
