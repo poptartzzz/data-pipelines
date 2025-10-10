@@ -18,3 +18,4 @@
 2025-07-09 docs
 2025-07-29 add retry on 429
 2025-08-29 small perf pass
+2025-10-10 small perf pass
