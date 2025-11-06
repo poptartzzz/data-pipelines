@@ -17,3 +17,4 @@
 2025-09-29 handle empty response
 2025-10-01 move config to env
 2025-10-30 log the raw payload
+2025-11-06 bump deps
