@@ -15,3 +15,4 @@
 2025-08-06 bump deps
 2025-09-02 lint
 2025-09-06 dockerfile
+2025-11-06 small perf pass
