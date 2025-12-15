@@ -22,3 +22,4 @@
 2025-11-04 fix timezone bug
 2025-11-06 wire up queue
 2025-11-12 metrics
+2025-12-15 handle empty response
