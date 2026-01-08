@@ -21,3 +21,4 @@
 2025-10-10 small perf pass
 2025-12-09 cleanup dead code
 2026-01-04 guard against None
+2026-01-08 cleanup dead code
