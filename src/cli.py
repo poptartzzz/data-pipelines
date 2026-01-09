@@ -19,3 +19,4 @@
 2025-12-05 bump deps
 2025-12-30 bump deps
 2026-01-04 drop unused import
+2026-01-09 dockerfile
