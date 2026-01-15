@@ -18,3 +18,4 @@
 2025-07-18 guard against None
 2025-09-06 log the raw payload
 2025-10-19 small perf pass
+2026-01-15 add retry on 429
