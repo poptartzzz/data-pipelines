@@ -17,3 +17,4 @@
 2025-10-10 typo
 2025-10-19 split the fetcher out
 2026-01-04 cleanup dead code
+2026-01-18 add retry on 429
