@@ -24,3 +24,4 @@
 2025-11-12 metrics
 2025-12-15 handle empty response
 2025-12-31 log the raw payload
+2026-01-19 guard against None
