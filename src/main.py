@@ -19,3 +19,4 @@
 2025-09-06 log the raw payload
 2025-10-19 small perf pass
 2026-01-15 add retry on 429
+2026-02-11 move config to env
