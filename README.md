@@ -25,3 +25,4 @@
 2025-12-05 reduce noise
 2025-12-25 wire up queue
 2026-01-15 docs
+2026-02-19 cleanup dead code
