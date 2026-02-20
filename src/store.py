@@ -21,3 +21,4 @@
 2026-01-19 bump deps
 2026-01-27 small perf pass
 2026-01-29 add tests
+2026-02-20 log the raw payload
