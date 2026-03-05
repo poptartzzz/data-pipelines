@@ -31,3 +31,4 @@
 2025-11-29 revert
 2025-12-31 pagination fix
 2025-12-31 drop unused import
+2026-03-05 typo
