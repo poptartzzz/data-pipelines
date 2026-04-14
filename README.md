@@ -27,3 +27,4 @@
 2026-01-15 docs
 2026-02-19 cleanup dead code
 2026-03-08 pagination fix
+2026-04-14 readme
