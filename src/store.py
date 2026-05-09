@@ -24,3 +24,4 @@
 2026-02-20 log the raw payload
 2026-03-05 log the raw payload
 2026-04-04 fix timezone bug
+2026-05-09 move config to env
