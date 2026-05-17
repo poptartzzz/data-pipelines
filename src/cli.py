@@ -22,3 +22,4 @@
 2026-01-09 dockerfile
 2026-01-19 typeshed
 2026-04-14 readme
+2026-05-17 hotfix
