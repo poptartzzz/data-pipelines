@@ -19,3 +19,4 @@
 2026-02-05 log the raw payload
 2026-05-16 dockerfile
 2026-05-17 reduce noise
+2026-06-05 add retry on 429
