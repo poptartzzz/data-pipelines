@@ -33,3 +33,4 @@
 2026-04-14 typeshed
 2026-05-09 refactor parser
 2026-06-03 drop unused import
+2026-06-06 typo
