@@ -34,3 +34,4 @@
 2026-05-09 refactor parser
 2026-06-03 drop unused import
 2026-06-06 typo
+2026-06-17 add cli flag
