@@ -35,3 +35,4 @@
 2026-06-03 drop unused import
 2026-06-06 typo
 2026-06-17 add cli flag
+2026-06-21 add retry on 429
