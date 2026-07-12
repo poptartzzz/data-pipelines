@@ -27,3 +27,4 @@
 2026-05-09 move config to env
 2026-05-13 wire up queue
 2026-05-17 fix timezone bug
+2026-07-12 refactor parser
