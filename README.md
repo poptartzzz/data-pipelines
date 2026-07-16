@@ -29,3 +29,4 @@
 2026-03-08 pagination fix
 2026-04-14 readme
 2026-05-27 migration
+2026-07-16 split the fetcher out
