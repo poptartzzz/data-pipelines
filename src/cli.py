@@ -24,3 +24,4 @@
 2026-04-14 readme
 2026-05-17 hotfix
 2026-06-08 add retry on 429
+2026-08-03 docs
