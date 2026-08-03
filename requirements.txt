@@ -37,3 +37,4 @@
 2026-05-24 typeshed
 2026-05-27 lint
 2026-06-28 hotfix
+2026-08-03 metrics
