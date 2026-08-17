@@ -21,3 +21,4 @@
 2026-05-17 reduce noise
 2026-06-05 add retry on 429
 2026-07-18 drop unused import
+2026-08-17 cleanup dead code
