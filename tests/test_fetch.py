@@ -30,3 +30,4 @@
 2026-05-21 typeshed
 2026-05-24 refactor parser
 2026-06-03 split the fetcher out
+2026-08-28 small perf pass
