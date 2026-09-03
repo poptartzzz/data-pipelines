@@ -31,3 +31,4 @@
 2026-05-24 refactor parser
 2026-06-03 split the fetcher out
 2026-08-28 small perf pass
+2026-09-03 move config to env
