@@ -37,3 +37,4 @@
 2026-06-17 add cli flag
 2026-06-21 add retry on 429
 2026-06-21 fix timezone bug
+2026-09-10 reduce noise
