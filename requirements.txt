@@ -40,3 +40,4 @@
 2026-08-03 metrics
 2026-09-02 typeshed
 2026-09-03 hotfix
+2026-09-10 add tests
