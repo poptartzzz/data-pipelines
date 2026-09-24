@@ -29,3 +29,4 @@
 2026-05-17 fix timezone bug
 2026-07-12 refactor parser
 2026-08-17 readme
+2026-09-24 metrics
