@@ -30,3 +30,4 @@
 2026-07-12 refactor parser
 2026-08-17 readme
 2026-09-24 metrics
+2026-10-07 handle empty response
