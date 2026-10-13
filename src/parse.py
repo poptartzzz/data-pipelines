@@ -39,3 +39,4 @@
 2026-06-21 fix timezone bug
 2026-09-10 reduce noise
 2026-10-03 pagination fix
+2026-10-13 backoff on failure
