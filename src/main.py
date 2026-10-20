@@ -22,3 +22,4 @@
 2026-02-11 move config to env
 2026-05-08 reduce noise
 2026-07-16 typeshed
+2026-10-20 revert
