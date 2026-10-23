@@ -23,3 +23,4 @@
 2026-05-27 drop unused import
 2026-09-30 typeshed
 2026-10-19 readme
+2026-10-23 move config to env
