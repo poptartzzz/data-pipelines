@@ -24,3 +24,4 @@
 2026-09-30 typeshed
 2026-10-19 readme
 2026-10-23 move config to env
+2026-10-26 guard against None
